@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "880a2921_af64ed20",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000008
+      },
+      "writtenOn": "2023-03-28T04:21:58Z",
+      "side": 1,
+      "message": "Seems like this patch not needed for us. Jus need confirmation from harsh sar",
+      "revId": "3ce4f242e74cf8c72c457d0c5e57883be372796c",
+      "serverId": "c85314f7-38ff-4b73-93db-2637f3516207"
+    }
+  ]
+}
